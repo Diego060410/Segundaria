@@ -1,0 +1,6 @@
+@Segundaria_HostAddress = http://localhost:5104
+
+GET {{Segundaria_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
